@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES TEMPORALES | Escritura masiva de datos y consultas optimizadas por rangos de tiempo.
